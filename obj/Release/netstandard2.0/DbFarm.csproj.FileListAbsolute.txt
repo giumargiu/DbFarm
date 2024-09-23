@@ -1,0 +1,10 @@
+C:\Users\Utente\source\repos\DbFarm\bin\Release\netstandard2.0\DbFarm.deps.json
+C:\Users\Utente\source\repos\DbFarm\bin\Release\netstandard2.0\DbFarm.dll
+C:\Users\Utente\source\repos\DbFarm\bin\Release\netstandard2.0\DbFarm.pdb
+C:\Users\Utente\source\repos\DbFarm\obj\Release\netstandard2.0\DbFarm.csproj.AssemblyReference.cache
+C:\Users\Utente\source\repos\DbFarm\obj\Release\netstandard2.0\DbFarm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Utente\source\repos\DbFarm\obj\Release\netstandard2.0\DbFarm.AssemblyInfoInputs.cache
+C:\Users\Utente\source\repos\DbFarm\obj\Release\netstandard2.0\DbFarm.AssemblyInfo.cs
+C:\Users\Utente\source\repos\DbFarm\obj\Release\netstandard2.0\DbFarm.csproj.CoreCompileInputs.cache
+C:\Users\Utente\source\repos\DbFarm\obj\Release\netstandard2.0\DbFarm.dll
+C:\Users\Utente\source\repos\DbFarm\obj\Release\netstandard2.0\DbFarm.pdb
